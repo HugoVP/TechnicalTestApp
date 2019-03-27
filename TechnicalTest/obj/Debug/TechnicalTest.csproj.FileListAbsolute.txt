@@ -1,0 +1,7 @@
+C:\Users\Hugo\Proyectos\Playground\TechnicalTest\TechnicalTest\bin\Debug\TechnicalTest.exe.config
+C:\Users\Hugo\Proyectos\Playground\TechnicalTest\TechnicalTest\bin\Debug\TechnicalTest.exe
+C:\Users\Hugo\Proyectos\Playground\TechnicalTest\TechnicalTest\bin\Debug\TechnicalTest.pdb
+C:\Users\Hugo\Proyectos\Playground\TechnicalTest\TechnicalTest\obj\Debug\TechnicalTest.csprojAssemblyReference.cache
+C:\Users\Hugo\Proyectos\Playground\TechnicalTest\TechnicalTest\obj\Debug\TechnicalTest.csproj.CoreCompileInputs.cache
+C:\Users\Hugo\Proyectos\Playground\TechnicalTest\TechnicalTest\obj\Debug\TechnicalTest.exe
+C:\Users\Hugo\Proyectos\Playground\TechnicalTest\TechnicalTest\obj\Debug\TechnicalTest.pdb
